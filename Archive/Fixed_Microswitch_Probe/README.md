@@ -1,0 +1,2 @@
+# Microswitch Probe
+used to replace the omron inductive sensor with a microswitch, this is a manual process, but allows you to easily and cheaply probe the bed surface (or replace a dead probe temporarily) for about a dollar in parts.
