@@ -14,7 +14,7 @@ Currently the magprobe is a lot smaller, completely <u>solderless</u>, <u>requir
 
 Testing has shown the best switch for repeatability is the Omron D2F-5. You can also order the 5L model and remove the lever. A high temp substitute can be the Honeywell 411SX21-T. Downsides are is that its a lot more expensive and performs the same or worse. A genuine Omron D2F-5 should get you easily 1000H of use. Replacing the magprobe in your machine is a matter of seconds.
 
-Video of magprobe [in action](https://www.youtube.com/watch?v=kHAcm8c9pTk)
+Video of magprobe [in action.](https://www.youtube.com/watch?v=kHAcm8c9pTk)
 
 [![Video of magprobe in action](https://img.youtube.com/vi/kHAcm8c9pTk/0.jpg)](https://www.youtube.com/watch?v=kHAcm8c9pTk)
 
@@ -25,12 +25,12 @@ If you want to test the [magprobe](/STLs/omron_d2f-5_microswitch_probe_body_x1_r
 
 
 ## Software
-It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). It is recommended to use the [integrated klipper module](https://github.com/mental405/klipper/blob/work-annex-probe/docs/Dockable_Probe.md) A final merge is pending.
+It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). It is recommended to use the [integrated klipper module.](https://github.com/mental405/klipper/blob/work-annex-probe/docs/Dockable_Probe.md) A final merge is pending.
 
 ## General installation instructions
 [![Assembly video](https://img.youtube.com/vi/zLjfP3BHAIw/0.jpg)](https://www.youtube.com/watch?v=zLjfP3BHAIw)
 
-You can find a full step-by-step Youtube assembly video [here](https://www.youtube.com/watch?v=zLjfP3BHAIw)
+You can find a full step-by-step Youtube assembly video [here.](https://www.youtube.com/watch?v=zLjfP3BHAIw)
 
 
 ## Gallery
