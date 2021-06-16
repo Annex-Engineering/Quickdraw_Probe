@@ -19,7 +19,7 @@ MGN12H version is based  on the VoronUsers [MGN12 mod by Arkeet](https://github.
 - 2x DIN912 M3x8
 
 ## Resources
-Installation instructions magprobe: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
+Installation instructions magprobe: https://github.com/Annex-Engineering/Quickdraw_Probe
  
 
 ## Discord

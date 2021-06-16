@@ -18,7 +18,7 @@ For pickup detection probe_query or a circuit with the dock can be made. No buil
 
 
 ## Resources
-Installation instructions magprobe: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
+Installation instructions magprobe: https://github.com/Annex-Engineering/Quickdraw_Probe
  
 
 ## Discord
