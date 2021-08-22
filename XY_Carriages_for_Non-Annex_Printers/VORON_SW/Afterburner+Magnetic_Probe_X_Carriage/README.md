@@ -18,8 +18,8 @@ You will need to configure your switchwire to do an intial z home before probe p
 ![Left/Front View](./Pictures/1.JPG "Left/Front View")
 ### Left/Rear
 ![Left/Rear View](./Pictures/2.JPG "Left/Rear View")
-### Bottom
-![Bottom View](./Pictures/3.JPG "Bottom View")
+### Rear
+![Rear View](./Pictures/3.JPG "Rear View")
 
 ## Discord
 Do you have any design suggestions or ideas? We would love to hear! You can join us at https://discord.gg/MzTR3zE
