@@ -1,0 +1,27 @@
+Here is an example config to use as a starting point, with the dockable probe module
+
+# Dockable Probe
+[dockable_probe]
+pin: #your probe pin goes here
+x_offset: 0 # offset for microswitch x direction off nozzle
+y_offset: 0 # offset for microswitch y direction off nozzle
+z_offset: 0 # offset for microswitch in z height
+samples: 3
+sample_retract_dist: 15 # this is so the machine has time for the switch to reset properly, especially with a higher retract speed
+samples_result: median
+samples_tolerance: 0.04
+samples_tolerance_retries: 3
+speed: 5 # do not go higher than 10mm/s, you will destroy the switch
+lift_speed: 20
+
+# dockable probe specific
+dock_position:             6,362, 5 #you need to set these on your own
+safe_z_position:           175,175 #used the center of the bed for this
+approach_position:		   6,322, 5 #you need to set these on your own
+detach_position:		   20, 362 #you need to set these on your own
+attach_speed:              20
+detach_speed:              100
+travel_speed:              300
+check_open_attach:         True #checks to see if the probe is attached before moving the toolhead, if not retries to pick up the probe
+dock_fixed_z:              True # k series printers use a dock fixed in the z axis, this was off a K2
+dock_retries:			   2
