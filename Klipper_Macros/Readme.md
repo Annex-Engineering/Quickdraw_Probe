@@ -1,6 +1,6 @@
 # dockable_probe.py
 
-this use the following module in klipper, please use it. It has not been merged with main yet, but will be in the near future
+this uses the following module in klipper, please use it. It has not been merged with main yet, but will be in the near future
 
 pull request on klipper: https://github.com/KevinOConnor/klipper/pull/4328
 
