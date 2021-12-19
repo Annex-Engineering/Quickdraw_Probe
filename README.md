@@ -49,8 +49,8 @@ Magprobe from Discord user [mental](https://www.youtube.com/watch?v=dCkJHvA7i6I)
 - [Switchwire](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Quickdraw/annex_internal-Probe_Docks_for_Non-Annex_Printers/VORON_SW/STLs)
 - [Legacy](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Quickdraw/annex_internal-Probe_Docks_for_Non-Annex_Printers/VORON_Legacy/STLs)
 
-## Support
-If you need help assembling or have any other questions you are more them welcome in our Discord server. You can join us through this link here: https://discord.gg/MzTR3zE
+## BOM and Support
+The universal BOM can be found [here.](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit#gid=130421369) If you need help assembling or have any other questions you are more them welcome in our Discord server. You can join us through this link here: https://discord.gg/MzTR3zE
 
 
 
